@@ -13,3 +13,5 @@ Next Player Are:
 8.Laado
 9.Ridima
 10.Radhe
+
+Total Completed :
